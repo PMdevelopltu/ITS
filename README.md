@@ -2,6 +2,6 @@
 
 Naujausia versija:
 
-v1.0.0-pre
+v1.0.1
 
-Išleista:  12/1/2021
+Išleista:  12/16/2021

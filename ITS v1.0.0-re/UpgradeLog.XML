@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="BirdWatcher">
+</Property><Property Name="Solution File" Value="C:\Users\pauld\Downloads\BirdWatcher\BirdWatcher.sln">
+</Property><Property Name="User Options File" Value="C:\Users\pauld\Downloads\BirdWatcher\BirdWatcher.suo">
+</Property><Property Name="Date" Value="Tuesday, November 16, 2021">
+</Property><Property Name="Time" Value="16:32 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="BirdWatcher.sln" Description="File successfully backed up as C:\Users\pauld\Downloads\BirdWatcher\Backup\BirdWatcher.sln">
+</Event><Event ErrorLevel="0" Project="" Source="BirdWatcher.suo" Description="File successfully backed up as C:\Users\pauld\Downloads\BirdWatcher\Backup\BirdWatcher.suo">
+</Event><Event ErrorLevel="0" Project="BirdWatcher" Source="BirdWatcher\BirdWatcher.csproj" Description="Project file successfully backed up as C:\Users\pauld\Downloads\BirdWatcher\Backup\BirdWatcher\BirdWatcher.csproj">
+</Event><Event ErrorLevel="0" Project="BirdWatcher" Source="BirdWatcher\BirdWatcher.csproj.user" Description="Project user file successfully backed up as C:\Users\pauld\Downloads\BirdWatcher\Backup\BirdWatcher\BirdWatcher.csproj.user">
+</Event><Event ErrorLevel="0" Project="BirdWatcher" Source="BirdWatcher\BirdData.cs" Description="File successfully backed up as C:\Users\pauld\Downloads\BirdWatcher\Backup\BirdWatcher\BirdData.cs">
+</Event><Event ErrorLevel="0" Project="BirdWatcher" Source="BirdWatcher\FileSerializer.cs" Description="File successfully backed up as C:\Users\pauld\Downloads\BirdWatcher\Backup\BirdWatcher\FileSerializer.cs">
+</Event><Event ErrorLevel="0" Project="BirdWatcher" Source="BirdWatcher\Form1.cs" Description="File successfully backed up as C:\Users\pauld\Downloads\BirdWatcher\Backup\BirdWatcher\Form1.cs">
+</Event><Event ErrorLevel="0" Project="BirdWatcher" Source="BirdWatcher\Form1.Designer.cs" Description="File successfully backed up as C:\Users\pauld\Downloads\BirdWatcher\Backup\BirdWatcher\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="BirdWatcher" Source="BirdWatcher\Form2.cs" Description="File successfully backed up as C:\Users\pauld\Downloads\BirdWatcher\Backup\BirdWatcher\Form2.cs">
+</Event><Event ErrorLevel="0" Project="BirdWatcher" Source="BirdWatcher\Form2.Designer.cs" Description="File successfully backed up as C:\Users\pauld\Downloads\BirdWatcher\Backup\BirdWatcher\Form2.Designer.cs">
+</Event><Event ErrorLevel="0" Project="BirdWatcher" Source="BirdWatcher\Form3.cs" Description="File successfully backed up as C:\Users\pauld\Downloads\BirdWatcher\Backup\BirdWatcher\Form3.cs">
+</Event><Event ErrorLevel="0" Project="BirdWatcher" Source="BirdWatcher\Form3.Designer.cs" Description="File successfully backed up as C:\Users\pauld\Downloads\BirdWatcher\Backup\BirdWatcher\Form3.Designer.cs">
+</Event><Event ErrorLevel="0" Project="BirdWatcher" Source="BirdWatcher\Program.cs" Description="File successfully backed up as C:\Users\pauld\Downloads\BirdWatcher\Backup\BirdWatcher\Program.cs">
+</Event><Event ErrorLevel="0" Project="BirdWatcher" Source="BirdWatcher\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\pauld\Downloads\BirdWatcher\Backup\BirdWatcher\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="BirdWatcher" Source="BirdWatcher\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\pauld\Downloads\BirdWatcher\Backup\BirdWatcher\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="BirdWatcher" Source="BirdWatcher\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\pauld\Downloads\BirdWatcher\Backup\BirdWatcher\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="BirdWatcher" Source="BirdWatcher\Properties\Settings.settings" Description="File successfully backed up as C:\Users\pauld\Downloads\BirdWatcher\Backup\BirdWatcher\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="BirdWatcher" Source="BirdWatcher\Form1.resx" Description="File successfully backed up as C:\Users\pauld\Downloads\BirdWatcher\Backup\BirdWatcher\Form1.resx">
+</Event><Event ErrorLevel="0" Project="BirdWatcher" Source="BirdWatcher\Form2.resx" Description="File successfully backed up as C:\Users\pauld\Downloads\BirdWatcher\Backup\BirdWatcher\Form2.resx">
+</Event><Event ErrorLevel="0" Project="BirdWatcher" Source="BirdWatcher\Form3.resx" Description="File successfully backed up as C:\Users\pauld\Downloads\BirdWatcher\Backup\BirdWatcher\Form3.resx">
+</Event><Event ErrorLevel="0" Project="BirdWatcher" Source="BirdWatcher\Properties\Resources.resx" Description="File successfully backed up as C:\Users\pauld\Downloads\BirdWatcher\Backup\BirdWatcher\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="BirdWatcher" Source="BirdWatcher\BirdWatcher.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="BirdWatcher" Source="BirdWatcher\BirdWatcher.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="BirdWatcher.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="BirdWatcher.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="BirdWatcher" Source="BirdWatcher\BirdWatcher.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

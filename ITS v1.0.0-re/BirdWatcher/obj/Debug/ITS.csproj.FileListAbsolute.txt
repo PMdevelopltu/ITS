@@ -1,0 +1,47 @@
+C:\Users\pauld\Desktop\BirdWatcher\BirdWatcher\obj\Debug\ITS.csproj.AssemblyReference.cache
+C:\Users\pauld\Desktop\BirdWatcher\BirdWatcher\obj\Debug\BirdWatcher.Form1.resources
+C:\Users\pauld\Desktop\BirdWatcher\BirdWatcher\obj\Debug\BirdWatcher.Form2.resources
+C:\Users\pauld\Desktop\BirdWatcher\BirdWatcher\obj\Debug\BirdWatcher.Form3.resources
+C:\Users\pauld\Desktop\BirdWatcher\BirdWatcher\obj\Debug\ITS.csproj.GenerateResource.cache
+C:\Users\pauld\Desktop\BirdWatcher\BirdWatcher\obj\Debug\ITS.csproj.CoreCompileInputs.cache
+C:\Users\pauld\Desktop\BirdWatcher\BirdWatcher\bin\Debug\ITS.exe
+C:\Users\pauld\Desktop\BirdWatcher\BirdWatcher\bin\Debug\ITS.pdb
+C:\Users\pauld\Desktop\BirdWatcher\BirdWatcher\obj\Debug\ITS.Properties.Resources.resources
+C:\Users\pauld\Desktop\BirdWatcher\BirdWatcher\obj\Debug\ITS.exe
+C:\Users\pauld\Desktop\BirdWatcher\BirdWatcher\obj\Debug\ITS.pdb
+C:\Users\pauld\Desktop\ITS\BirdWatcher\obj\Debug\ITS.csproj.AssemblyReference.cache
+C:\Users\pauld\Desktop\ITS\BirdWatcher\obj\Debug\BirdWatcher.Form1.resources
+C:\Users\pauld\Desktop\ITS\BirdWatcher\obj\Debug\BirdWatcher.Form2.resources
+C:\Users\pauld\Desktop\ITS\BirdWatcher\obj\Debug\BirdWatcher.Form3.resources
+C:\Users\pauld\Desktop\ITS\BirdWatcher\obj\Debug\ITS.Properties.Resources.resources
+C:\Users\pauld\Desktop\ITS\BirdWatcher\obj\Debug\ITS.csproj.GenerateResource.cache
+C:\Users\pauld\Desktop\ITS\BirdWatcher\obj\Debug\ITS.csproj.CoreCompileInputs.cache
+C:\Users\pauld\Desktop\ITS\BirdWatcher\obj\Debug\ITS.exe
+C:\Users\pauld\Desktop\ITS\BirdWatcher\obj\Debug\ITS.pdb
+C:\Users\pauld\Desktop\ITS\BirdWatcher\bin\Debug\ITS.exe
+C:\Users\pauld\Desktop\ITS\BirdWatcher\bin\Debug\ITS.pdb
+C:\Users\pauld\Desktop\ITS\BirdWatcher\obj\Debug\ITS.Form4.resources
+C:\Users\pauld\Desktop\ITS\BirdWatcher\bin\Debug\DataGridViewAutoFilter.dll
+C:\Users\pauld\Desktop\ITS\BirdWatcher\obj\Debug\ITS.csproj.CopyComplete
+C:\Users\pauld\Desktop\ITS\BirdWatcher\bin\Debug\Database2.accdb
+C:\Users\pauld\Desktop\ITS\BirdWatcher\bin\Debug\ITS.exe.config
+C:\Users\pauld\Desktop\ITS\BirdWatcher\obj\Debug\ITS.csproj.SuggestedBindingRedirects.cache
+C:\Users\pauld\Desktop\ITS\BirdWatcher\obj\Debug\ITS.AboutBox1.resources
+C:\Users\pauld\Desktop\ITS v1.0.0-re\BirdWatcher\bin\Debug\Database2.accdb
+C:\Users\pauld\Desktop\ITS v1.0.0-re\BirdWatcher\bin\Debug\ITS.exe.config
+C:\Users\pauld\Desktop\ITS v1.0.0-re\BirdWatcher\bin\Debug\ITS.exe
+C:\Users\pauld\Desktop\ITS v1.0.0-re\BirdWatcher\bin\Debug\ITS.pdb
+C:\Users\pauld\Desktop\ITS v1.0.0-re\BirdWatcher\bin\Debug\DataGridViewAutoFilter.dll
+C:\Users\pauld\Desktop\ITS v1.0.0-re\BirdWatcher\obj\Debug\ITS.csproj.AssemblyReference.cache
+C:\Users\pauld\Desktop\ITS v1.0.0-re\BirdWatcher\obj\Debug\ITS.csproj.SuggestedBindingRedirects.cache
+C:\Users\pauld\Desktop\ITS v1.0.0-re\BirdWatcher\obj\Debug\ITS.AboutBox1.resources
+C:\Users\pauld\Desktop\ITS v1.0.0-re\BirdWatcher\obj\Debug\BirdWatcher.Form1.resources
+C:\Users\pauld\Desktop\ITS v1.0.0-re\BirdWatcher\obj\Debug\BirdWatcher.Form2.resources
+C:\Users\pauld\Desktop\ITS v1.0.0-re\BirdWatcher\obj\Debug\BirdWatcher.Form3.resources
+C:\Users\pauld\Desktop\ITS v1.0.0-re\BirdWatcher\obj\Debug\ITS.Form4.resources
+C:\Users\pauld\Desktop\ITS v1.0.0-re\BirdWatcher\obj\Debug\ITS.Properties.Resources.resources
+C:\Users\pauld\Desktop\ITS v1.0.0-re\BirdWatcher\obj\Debug\ITS.csproj.GenerateResource.cache
+C:\Users\pauld\Desktop\ITS v1.0.0-re\BirdWatcher\obj\Debug\ITS.csproj.CoreCompileInputs.cache
+C:\Users\pauld\Desktop\ITS v1.0.0-re\BirdWatcher\obj\Debug\ITS.csproj.CopyComplete
+C:\Users\pauld\Desktop\ITS v1.0.0-re\BirdWatcher\obj\Debug\ITS.exe
+C:\Users\pauld\Desktop\ITS v1.0.0-re\BirdWatcher\obj\Debug\ITS.pdb

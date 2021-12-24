@@ -1,0 +1,11 @@
+C:\Users\pauld\Desktop\BirdWatcher\Backup\BirdWatcher\bin\Debug\BirdWatcher.exe
+C:\Users\pauld\Desktop\BirdWatcher\Backup\BirdWatcher\bin\Debug\BirdWatcher.pdb
+C:\Users\pauld\Desktop\BirdWatcher\Backup\BirdWatcher\obj\Debug\BirdWatcher.csproj.AssemblyReference.cache
+C:\Users\pauld\Desktop\BirdWatcher\Backup\BirdWatcher\obj\Debug\BirdWatcher.Form1.resources
+C:\Users\pauld\Desktop\BirdWatcher\Backup\BirdWatcher\obj\Debug\BirdWatcher.Form2.resources
+C:\Users\pauld\Desktop\BirdWatcher\Backup\BirdWatcher\obj\Debug\BirdWatcher.Form3.resources
+C:\Users\pauld\Desktop\BirdWatcher\Backup\BirdWatcher\obj\Debug\BirdWatcher.Properties.Resources.resources
+C:\Users\pauld\Desktop\BirdWatcher\Backup\BirdWatcher\obj\Debug\BirdWatcher.csproj.GenerateResource.cache
+C:\Users\pauld\Desktop\BirdWatcher\Backup\BirdWatcher\obj\Debug\BirdWatcher.csproj.CoreCompileInputs.cache
+C:\Users\pauld\Desktop\BirdWatcher\Backup\BirdWatcher\obj\Debug\BirdWatcher.exe
+C:\Users\pauld\Desktop\BirdWatcher\Backup\BirdWatcher\obj\Debug\BirdWatcher.pdb

@@ -1,0 +1,9 @@
+C:\Users\pauld\Downloads\BirdWatcher\BirdWatcher\bin\Debug\BirdWatcher.exe
+C:\Users\pauld\Downloads\BirdWatcher\BirdWatcher\bin\Debug\BirdWatcher.pdb
+C:\Users\pauld\Downloads\BirdWatcher\BirdWatcher\obj\Debug\BirdWatcher.Form1.resources
+C:\Users\pauld\Downloads\BirdWatcher\BirdWatcher\obj\Debug\BirdWatcher.Form2.resources
+C:\Users\pauld\Downloads\BirdWatcher\BirdWatcher\obj\Debug\BirdWatcher.Form3.resources
+C:\Users\pauld\Downloads\BirdWatcher\BirdWatcher\obj\Debug\BirdWatcher.Properties.Resources.resources
+C:\Users\pauld\Downloads\BirdWatcher\BirdWatcher\obj\Debug\BirdWatcher.csproj.GenerateResource.Cache
+C:\Users\pauld\Downloads\BirdWatcher\BirdWatcher\obj\Debug\BirdWatcher.exe
+C:\Users\pauld\Downloads\BirdWatcher\BirdWatcher\obj\Debug\BirdWatcher.pdb

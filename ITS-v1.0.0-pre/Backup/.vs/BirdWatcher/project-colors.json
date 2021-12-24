@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "71bc0cf4-bd27-4500-8172-337859b4346b": {
+      "ProjectGuid": "71bc0cf4-bd27-4500-8172-337859b4346b",
+      "DisplayName": "BirdWatcher",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

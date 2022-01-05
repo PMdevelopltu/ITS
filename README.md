@@ -2,6 +2,11 @@
 
 Naujausia versija:
 
-v1.0.1
+v1.0.2 - final
 
-Išleista:  12/16/2021
+Išleista:  01/05/21
+
+
+
+
+Source code based on BirdWatcher. I made some modifications for my personal purposes.
